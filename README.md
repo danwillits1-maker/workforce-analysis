@@ -9,8 +9,7 @@ Which employee, role, and work patterns are associated with attrition, and where
 ## Dashboard
 
 <!-- Add a screenshot here once you upload it to the repository -->
-![Workforce dashboard preview](3_Power BI/images/dashboard_page_1.png)
-
+![Workforce dashboard preview](3_Power%20BI/images/dashboard_page_1.png)
 ## Key findings
 
 - Overall attrition was 9.03% across 10,000 employees.
