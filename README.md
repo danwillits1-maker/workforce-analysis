@@ -14,7 +14,7 @@ Which employee, role, and work patterns are associated with attrition, and where
 
 - Overall attrition was 9.03% across 10,000 employees.
 - Engineering had the highest attrition rate of 9.58% with the HR department comparatively low at 7.27%. 
-- Employees working overtime showed a 1.56x higher likelihood of attrition across all employees analysed.
+- Employees working overtime showed a 1.56x higher attrition rate.
 
 These are descriptive patterns in the dataset. They do not show that any factor caused employees to leave.
 
