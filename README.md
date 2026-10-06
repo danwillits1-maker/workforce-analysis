@@ -34,7 +34,7 @@ The 1.5 multiplier is an assumption. This is an estimated cost proxy, not a reco
 
 ## Repository contents
 
-- `1_Python/clean_data.ipynb` — data preparation scripts
+- `1_Python/clean_data.py` — data preparation scripts
 - `2_SQL/create_dataset.sql` — database and transformation scripts
 - `3_Power BI/workforce_dashboard.pbix` — Power BI report
 - `3_Power BI/images/dashboard_page_1-3.png` — dashboard screenshots
