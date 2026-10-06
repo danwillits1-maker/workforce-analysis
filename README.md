@@ -35,9 +35,9 @@ The 1.5 multiplier is an assumption. This is an estimated cost proxy, not a reco
 
 ## Repository contents
 
-- `1_Python Code.ipybn` — data preparation scripts
-- `2_SQL Code` — database and transformation scripts
-- `powerbi/` — Power BI report
+- `Code/1_Python Code.ipybn` — data preparation scripts
+- `Code/2_SQL Code` — database and transformation scripts
+- `Dashboard/` — Power BI report
 - `images/` — dashboard screenshots
 
 Update these folder names to match what you actually add to the repository.
