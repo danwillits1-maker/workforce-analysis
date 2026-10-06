@@ -41,7 +41,7 @@ The 1.5 multiplier is an assumption. This is an estimated cost proxy, not a reco
 
 ## Data and limitations
 
-- Dataset: [name and link]
+- Dataset: ![Raw Dataset](4_Dataset/employee_dataset_raw.csv) or found in 4_Dataset
 - The data represents [source, period, and whether it is simulated or public].
 - The analysis shows associations, not causes.
 - Findings and recommendations should be interpreted within the limits of this dataset.
