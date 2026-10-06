@@ -35,8 +35,8 @@ The 1.5 multiplier is an assumption. This is an estimated cost proxy, not a reco
 
 ## Repository contents
 
-- `python/` — data preparation scripts
-- `sql/` — database and transformation scripts
+- `1_Python Code.ipybn` — data preparation scripts
+- `2_SQL Code` — database and transformation scripts
 - `powerbi/` — Power BI report
 - `images/` — dashboard screenshots
 
