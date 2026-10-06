@@ -9,7 +9,7 @@ Which employee, role, and work patterns are associated with attrition, and where
 ## Dashboard
 
 <!-- Add a screenshot here once you upload it to the repository -->
-![Workforce dashboard preview](images/workforce-dashboard.png)
+![Workforce dashboard preview](3_Power BI/images/dashboard_page_1.png)
 
 ## Key findings
 
