@@ -11,7 +11,7 @@ output_path = repo_root / "4_Dataset" / "employee_dataset_cleaned.csv"
 
 df_raw = pd.read_csv(input_path)
 df_raw.info()
-df_raw.head(5)
+print(df_raw.head(5))
 
 # Create a copy of dataset to protect raw
 df_cleaned = df_raw.copy()
@@ -49,7 +49,7 @@ if initial_rows != final_rows:
 duplicates = df_cleaned['employee_id'].duplicated().sum()
 print(f"Duplicate employee IDs: {duplicates}")
 
-df_cleaned.head(5)
+print(df_cleaned.head(5))
 
 # Values check
 print("1. Number of NA values per column")
