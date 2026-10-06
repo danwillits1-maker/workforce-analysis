@@ -41,8 +41,8 @@ The 1.5 multiplier is an assumption. This is an estimated cost proxy, not a reco
 
 ## Data and limitations
 
-- Dataset: ![Raw Dataset](4_Dataset/employee_dataset_raw.csv) or found in 4_Dataset
-- The data represents [source, period, and whether it is simulated or public].
+- Dataset: ![Raw Dataset](4_Dataset/employee_dataset_raw.csv)
+- The data represents a realistic, synthetic dataset sources from ![Kaggle](https://www.kaggle.com/datasets/personacarved/employee-attrition-dataset).
 - The analysis shows associations, not causes.
 - Findings and recommendations should be interpreted within the limits of this dataset.
 
