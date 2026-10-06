@@ -39,11 +39,9 @@ The 1.5 multiplier is an assumption. This is an estimated cost proxy, not a reco
 - `3_Power BI/workforce_dashboard.pbix` — Power BI report
 - `3_Power BI/images/dashboard_page_1-3.png` — dashboard screenshots
 
-Update these folder names to match what you actually add to the repository.
-
 ## Data and limitations
 
-- **Dataset:** [name and link]
+- Dataset: [name and link]
 - The data represents [source, period, and whether it is simulated or public].
 - The analysis shows associations, not causes.
 - Findings and recommendations should be interpreted within the limits of this dataset.
